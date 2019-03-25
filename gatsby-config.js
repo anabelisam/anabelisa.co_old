@@ -7,7 +7,7 @@ module.exports = {
     ogimage: 'https://s3.amazonaws.com/drgns/domina-react-com.png',
     siteUrl: 'https://anabelisa.co/',
     social: {
-      twitter: 'gndx',
+      twitter: 'anabelisam_',
     },
   },
   plugins: [
