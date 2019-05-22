@@ -9,13 +9,13 @@ const Header = ({ title }) => (
     <h1>
       <img
         src={profilePic}
-        alt="Domina React"
+        alt="anabelisa.co"
       />
       <Link to="/">
         {title}
       </Link>
     </h1>
-    <span>Recursos en español para aprender y dominar JS.</span>
+    <span>Superpoderes en color rosa.</span>
   </div>
 );
 

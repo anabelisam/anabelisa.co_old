@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ana Belisa Martinez',
     author: 'Ana Belisa Martinez',
-    description: 'Recursos en español para aprender y dominar JS.',
+    description: 'Superpoderes en color rosa.',
     appid: '',
     ogimage: 'https://s3.amazonaws.com/drgns/domina-react-com.png',
     siteUrl: 'https://anabelisa.co/',
