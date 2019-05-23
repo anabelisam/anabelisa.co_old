@@ -3,7 +3,7 @@ title: Hola Mundo
 date: '2019-05-21T22:12:03.284Z'
 author: Ana Belisa Martinez
 profilePic: https://s3.amazonaws.com/chewiekie/img/ana-belisa-martinez.jpg
-description: Facebook Developer Lead and Backend Developer at Merqueo.com
+description: Lead at Facebook Developer Circle Bogota and Backend Developer at Merqueo
 cover: https://s3.amazonaws.com/chewiekie/img/anabelisa.png
 ---
 
