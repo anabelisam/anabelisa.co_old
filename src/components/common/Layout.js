@@ -43,7 +43,6 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                             <img className="site-logo" src={site.logo} alt={site.title} />
                                             : <Img fixed={data.file.childImageSharp.fixed} alt={site.title} />
                                         }
-                                        <span>Arepa.Dev <span>Recursos en español para aprender JavaScript</span></span>
                                     </Link>
                                 </div>
                                 <div className="site-mast-right">
