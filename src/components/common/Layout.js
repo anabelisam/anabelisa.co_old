@@ -43,6 +43,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                             <img className="site-logo" src={site.logo} alt={site.title} />
                                             : <Img fixed={data.file.childImageSharp.fixed} alt={site.title} />
                                         }
+                                        <span>Ana Belisa Martinez</span>
                                     </Link>
                                 </div>
                                 <div className="site-mast-right">
