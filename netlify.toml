@@ -4,3 +4,8 @@
 
 [template]
   incoming-hooks = ["Ghost"]
+
+[[redirects]]
+  from = "/platzi"
+  to = "https://platzi.com/comprar/platzi-referido/?utm_source=partnerships&utm_medium=organic&utm_campaign=referidos2021_ana_belisa"
+  status = 301
