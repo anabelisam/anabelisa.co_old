@@ -49,7 +49,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                 <div className="site-mast-right">
                                     {site.twitter && <a href={twitterUrl} className="site-nav-item" target="_blank" rel="noopener noreferrer"><img className="site-nav-icon" src="/images/icons/twitter.svg" alt="Twitter" /></a>}
                                     {site.facebook && <a href={facebookUrl} className="site-nav-item" target="_blank" rel="noopener noreferrer"><img className="site-nav-icon" src="/images/icons/facebook.svg" alt="Facebook" /></a>}
-                                    <a className="site-nav-item" href="https://github.com/anabelmaresc" target="_blank" rel="noopener noreferrer">
+                                    <a className="site-nav-item" href="https://github.com/anabelisam" target="_blank" rel="noopener noreferrer">
                                         <img className="site-nav-icon" src="/images/icons/github.png" alt="Ana Belisa Martinez - Github" />
                                     </a>
                                 </div>
